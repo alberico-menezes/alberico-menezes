@@ -1,4 +1,4 @@
-- 👋 OI, Eu sou @alberico-menezes
+- 👋 Oi, Eu sou @alberico-menezes
 - 👀 Estou interessado em desenvolver meu perfil profissional e ampliar meu portifólio de projetos
 - 🌱 Atualmente estou aprendendo Power BI com interesse de atuar na área de análise de dados e inteligência de negócios ( BI )
 - 💞️ Estou procurando colaborar em projetos de BI 
