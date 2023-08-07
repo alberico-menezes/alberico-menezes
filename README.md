@@ -1,8 +1,8 @@
-- 👋 Oi, Eu sou @alberico-menezes
-- 👀 Estou interessado em desenvolver meu perfil profissional e ampliar meu portifólio de projetos
-- 🌱 Atualmente estou aprendendo Power BI com interesse de atuar na área de análise de dados e inteligência de negócios ( BI )
+- 👋 Sou Albérico Menezes.
+- 👀 Atualmente sou Analista Computacional e busco atuar com análise de dados/BI.
+- 🌱 Estou estudando análise de dados com ênfase em Power BI e também Ciência de Dados.
 - 💞️ Estou procurando colaborar em projetos de BI 
-- 📫 E para me encontrar, pode enviar um email para albericomenezes@yahoo.com.br ou perfil no Linkedin
+- 📫 E para me encontrar, pode enviar um email para albericomenezes@yahoo.com.br.
 
 <!---
 alberico-menezes/alberico-menezes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
