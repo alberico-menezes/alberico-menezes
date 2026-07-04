@@ -1,7 +1,7 @@
 - 👋 Sou Albérico Menezes.
-- 👀 Atualmente sou Analista de Sistemas em análise de dados, automação, apps e IA.
-- 🌱 Estou estudando análise de dados com ênfase em Power BI e também Ciência de Dados.
-- 💞️ Estou procurando colaborar em projetos de TI e IA.
+- 👀 Atualmente sou Analista de Sistemas atuando em análise de dados, automação, apps e IA.
+- 🌱 Estou buscando desenvolvimento em Python, Power BI, Power Platform e IA.
+- 💞️ Estou procurando colaborar em projetos de TI.
 - 📫 Fale comigo através do email albericomenezes@yahoo.com.br e Linkedin: https://www.linkedin.com/in/alb%C3%A9rico-menezes-445b463a/
 
 <!---
